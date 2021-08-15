@@ -1,0 +1,1 @@
+# Hadoop-bashrc-Error
